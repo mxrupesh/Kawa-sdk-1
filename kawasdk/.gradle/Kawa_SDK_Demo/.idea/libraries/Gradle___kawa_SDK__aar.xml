@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: :kawa_SDK:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5b53331a10281895effa9cc9730a1832/kawa_SDK/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5b53331a10281895effa9cc9730a1832/kawa_SDK/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5b53331a10281895effa9cc9730a1832/kawa_SDK/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ab84379bdc0c497c26e938461d53b33/kawa_SDK/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ab84379bdc0c497c26e938461d53b33/kawa_SDK/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ab84379bdc0c497c26e938461d53b33/kawa_SDK/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1c1c321e5e9a576993f640262796ed7/kawa_SDK/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1c1c321e5e9a576993f640262796ed7/kawa_SDK/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1c1c321e5e9a576993f640262796ed7/kawa_SDK/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

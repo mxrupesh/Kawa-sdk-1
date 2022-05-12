@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/color-night-v8/material_timepicker_clockface.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/color-night-v8/material_timepicker_modebutton_tint.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/color-night-v8/material_timepicker_button_stroke.xml"
+    }
+]

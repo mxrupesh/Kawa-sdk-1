@@ -1,0 +1,7 @@
+com/maxdigi/kawasdktest10/HomeActivity.java
+ com.maxdigi.kawasdktest10.HomeActivity
+com/maxdigi/kawasdktest10/kawaHomeActivity.java
+ com.maxdigi.kawasdktest10.kawaHomeActivity
+ com.maxdigi.kawasdktest10.kawaHomeActivity$1
+com/maxdigi/kawasdktest10/BuildConfig.java
+ com.maxdigi.kawasdktest10.BuildConfig

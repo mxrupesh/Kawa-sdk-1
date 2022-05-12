@@ -1,0 +1,28 @@
+{
+  "farm_fields": [
+    {
+      "field_type" : "textview",
+      "field_placeholder": "Enter name",
+      "field_tag" : "name",
+      "field_id": 0
+    },
+    {
+      "field_type" : "textview",
+      "field_placeholder": "Enter email",
+      "field_tag" : "email",
+      "field_id": 1
+    },
+    {
+      "field_type" : "textview",
+      "field_placeholder": "Enter mobile",
+      "field_tag" : "mobile_no",
+      "field_id": 2
+    },
+    {
+      "field_type" : "textview",
+      "field_placeholder": "Enter address",
+      "field_tag" : "address",
+      "field_id": 3
+    }
+  ]
+}

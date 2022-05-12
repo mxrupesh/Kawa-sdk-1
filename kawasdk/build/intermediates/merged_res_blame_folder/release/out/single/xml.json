@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/xml/network_security_config.xml",
+        "source": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/xml/standalone_badge.xml"
+    }
+]

@@ -1,0 +1,2 @@
+com/kawasdk/test/BuildConfig.java
+ com.kawasdk.test.BuildConfig

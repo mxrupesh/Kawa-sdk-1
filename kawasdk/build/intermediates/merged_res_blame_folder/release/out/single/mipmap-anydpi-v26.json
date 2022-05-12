@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

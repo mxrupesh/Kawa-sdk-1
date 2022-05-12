@@ -1,0 +1,183 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.maxdigi.kawasdktest10"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:5:5-79
+11-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:6:5-67
+12-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+13-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:7:5-78
+13-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:7:22-75
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:8:5-81
+14-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:9:5-80
+15-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:9:22-77
+16
+17    <uses-feature
+17-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:9:5-11:35
+18        android:glEsVersion="0x00020000"
+18-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:10:9-41
+19        android:required="true" />
+19-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:11:9-32
+20    <uses-feature
+20-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:12:5-14:36
+21        android:name="android.hardware.wifi"
+21-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:13:9-45
+22        android:required="false" />
+22-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:14:9-33
+23
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:17:5-79
+24-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:17:22-76
+25    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required for CrashReporterJobIntentService on API levels below 25 -->
+25-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:18:5-76
+25-->[com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.2] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/832388d54382c3be54fce65df81eb821/mapbox-android-sdk-9.6.2/AndroidManifest.xml:18:22-73
+26    <uses-permission android:name="android.permission.WAKE_LOCK" />
+26-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:12:5-68
+26-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:12:22-65
+27    <uses-permission
+27-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:16:5-18:38
+28        android:name="android.permission.GET_TASKS"
+28-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:17:9-52
+29        android:maxSdkVersion="20" />
+29-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:18:9-35
+30
+31    <application
+31-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:11:5-35:19
+32        android:allowBackup="true"
+32-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:12:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.5.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/07adfc08fe16d3453ab9291511ec05fe/core-1.5.0/AndroidManifest.xml:24:18-86
+34        android:debuggable="true"
+35        android:icon="@mipmap/ic_launcher"
+35-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:13:9-43
+36        android:label="@string/app_name"
+36-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:14:9-41
+37        android:largeHeap="true"
+37-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:22:18-42
+38        android:requestLegacyExternalStorage="true"
+38-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:15:9-52
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:16:9-54
+40        android:supportsRtl="true"
+40-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:17:9-35
+41        android:theme="@style/Theme.KawaSdkTest10"
+41-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:18:9-51
+42        android:windowSoftInputMode="adjustResize" >
+42-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:19:9-51
+43        <activity
+43-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:20:9-29:20
+44            android:name="com.maxdigi.kawasdktest10.HomeActivity"
+44-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:21:13-41
+45            android:exported="true"
+45-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:23:13-36
+46            android:windowSoftInputMode="adjustPan" >
+46-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:22:13-52
+47            <intent-filter>
+47-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:24:13-28:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:25:17-69
+48-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:25:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:27:17-77
+50-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:27:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:30:9-34:20
+54            android:name="com.maxdigi.kawasdktest10.kawaHomeActivity"
+54-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:31:13-45
+55            android:windowSoftInputMode="adjustPan" >
+55-->/Users/mxmacbookpro6/Documents/MAXDIGI/Android/kawa_space/Kawa_SDK_Demo/app/src/main/AndroidManifest.xml:32:13-52
+56        </activity>
+57        <activity
+57-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/8d662a355165dc996ba5917c926329ec/mapbox-android-plugin-places-v9-0.12.0/AndroidManifest.xml:10:9-14:68
+58            android:name="com.mapbox.mapboxsdk.plugins.places.autocomplete.ui.PlaceAutocompleteActivity"
+58-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/8d662a355165dc996ba5917c926329ec/mapbox-android-plugin-places-v9-0.12.0/AndroidManifest.xml:11:13-105
+59            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+59-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/8d662a355165dc996ba5917c926329ec/mapbox-android-plugin-places-v9-0.12.0/AndroidManifest.xml:12:13-122
+60            android:theme="@style/mapbox_plugins_translucent"
+60-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/8d662a355165dc996ba5917c926329ec/mapbox-android-plugin-places-v9-0.12.0/AndroidManifest.xml:13:13-62
+61            android:windowSoftInputMode="stateVisible|adjustPan" />
+61-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/8d662a355165dc996ba5917c926329ec/mapbox-android-plugin-places-v9-0.12.0/AndroidManifest.xml:14:13-65
+62        <activity
+62-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/8d662a355165dc996ba5917c926329ec/mapbox-android-plugin-places-v9-0.12.0/AndroidManifest.xml:15:9-17:125
+63            android:name="com.mapbox.mapboxsdk.plugins.places.picker.ui.PlacePickerActivity"
+63-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/8d662a355165dc996ba5917c926329ec/mapbox-android-plugin-places-v9-0.12.0/AndroidManifest.xml:16:13-93
+64            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+64-->[com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/8d662a355165dc996ba5917c926329ec/mapbox-android-plugin-places-v9-0.12.0/AndroidManifest.xml:17:13-122
+65
+66        <provider
+66-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:21:9-25:39
+67            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
+67-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:22:13-93
+68            android:authorities="com.maxdigi.kawasdktest10.mapboxtelemetryinitprovider"
+68-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:23:13-79
+69            android:exported="false"
+69-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:24:13-37
+70            android:initOrder="100" />
+70-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:25:13-36
+71
+72        <service
+72-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:27:9-30:72
+73            android:name="com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService"
+73-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:28:13-93
+74            android:exported="false"
+74-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:29:13-37
+75            android:permission="android.permission.BIND_JOB_SERVICE" />
+75-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:30:13-69
+76        <service
+76-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:31:9-33:40
+77            android:name="com.mapbox.android.telemetry.MapboxTelemetryService"
+77-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:32:13-79
+78            android:exported="false" />
+78-->[com.mapbox.mapboxsdk:mapbox-android-telemetry-okhttp3:8.1.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a22687ec086fcddac714c8556cbbb657/mapbox-android-telemetry-okhttp3-8.1.0/AndroidManifest.xml:33:13-37
+79
+80        <receiver
+80-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:23:9-29:20
+81            android:name="com.smartlook.sdk.smartlook.core.referrer.ReferrerReceiver"
+81-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:24:13-86
+82            android:exported="true" >
+82-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:25:13-36
+83            <intent-filter>
+83-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:26:13-28:29
+84                <action android:name="com.android.vending.INSTALL_REFERRER" />
+84-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:27:17-79
+84-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:27:25-76
+85            </intent-filter>
+86        </receiver>
+87
+88        <service
+88-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:31:9-33:72
+89            android:name="com.smartlook.sdk.smartlook.job.worker.record.UploadRecordJob"
+89-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:32:13-89
+90            android:permission="android.permission.BIND_JOB_SERVICE" />
+90-->[com.smartlook.recording:app:1.8.6-native] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml:33:13-69
+91
+92        <provider
+92-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+93            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+93-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+94            android:authorities="com.maxdigi.kawasdktest10.lifecycle-process"
+94-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+95            android:exported="false"
+95-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+96            android:multiprocess="true" />
+96-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/mxmacbookpro6/.gradle/caches/transforms-2/files-2.1/855ddc61a34d58ba3d9ba2b3d08479d5/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+97    </application>
+98
+99</manifest>

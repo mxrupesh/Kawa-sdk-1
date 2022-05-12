@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/layout-land/material_timepicker.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/layout-land/material_clock_period_toggle_land.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "/Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/build/intermediates/res/merged/release/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "/Users/macbook-pro2019/.gradle/caches/transforms-2/files-2.1/0afbca5d75ed49db5552569b9dce4707/material-1.4.0/res/layout-land/mtrl_picker_header_dialog.xml"
+    }
+]

@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:3:5-26
+		INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:8:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:11:22-74
+application
+ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:14:5-16:24
+	android:networkSecurityConfig
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml:15:9-69
+uses-sdk
+INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+		ADDED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook-pro2019/Documents/Rupesh/Android/kawa_space/Kawasdk/kawasdk/src/main/AndroidManifest.xml
