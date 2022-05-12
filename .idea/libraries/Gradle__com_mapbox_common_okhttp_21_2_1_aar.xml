@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.common:okhttp:21.2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f97b4ad2481ef718b48a543dad6a3d0/okhttp-21.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f97b4ad2481ef718b48a543dad6a3d0/okhttp-21.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f97b4ad2481ef718b48a543dad6a3d0/okhttp-21.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.common/okhttp/21.2.1/85b8a40c5e32474f9de0e83d4af7d056e455a5a9/okhttp-21.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.common/okhttp/21.2.1/a21355fd96d6a6cb02d643270d53aaf9e4c93445/okhttp-21.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

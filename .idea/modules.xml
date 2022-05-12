@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kawa-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/Kawa-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kawa-sdk.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kawa-sdk.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawasdk/Kawa-sdk.kawasdk.iml" filepath="$PROJECT_DIR$/.idea/modules/kawasdk/Kawa-sdk.kawasdk.iml" />
+    </modules>
+  </component>
+</project>

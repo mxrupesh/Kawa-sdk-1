@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.smartlook.recording:app:1.8.6-native@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a6a3f41944db1ef1503a76d4b81517ad/app-1.8.6-native/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
