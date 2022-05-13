@@ -437,7 +437,7 @@ public class fragmentShowAllFarms extends Fragment implements OnMapReadyCallback
 
         String strMerge = "{\"farms_fetched_at\":" + "\"" + COMACT.FARMS_FETCHED_AT + "\"" + ",\"recipe_id\":\"farm_boundaries\",\"aois\":" + String.valueOf(listFeatures) + "}";
         JsonObject selectedFarms = JsonParser.parseString(strMerge).getAsJsonObject();
-        interfaceKawaEvents.onkawaSelect(selectedFarms);
+        interfaceKawaEvents.onkawaSelect(selectedFarms.toString());
         //Phase second
         COMACT.showLoader(getActivity(),"isCircle");
         ServiceManager.getInstance().getKawaService().getMergedPoints(KawaMap.KAWA_API_KEY, COMACT.SDK_VERSION, selectedFarms).enqueue(new Callback<MergeModel>() {
