@@ -311,7 +311,7 @@ public class Common {
                 centerPointobject.put("zoomLeval", MAPZOOM);
                 jsonObject.put("center_position", centerPointobject);
                 jsonObject.put("four_corners", vRegion);
-                interfaceKawaEvents.onkawaUpdate(jsonObject);
+                interfaceKawaEvents.onkawaUpdate(jsonObject.toString());
             }
         } catch (Exception e) {
 

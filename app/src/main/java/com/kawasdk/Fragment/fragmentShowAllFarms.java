@@ -439,7 +439,7 @@ public class fragmentShowAllFarms extends Fragment implements OnMapReadyCallback
         String strMerge = "{\"farms_fetched_at\":" + "\"" + common.FARMS_FETCHED_AT + "\"" + ",\"recipe_id\":\"farm_boundaries\",\"aois\":" + String.valueOf(listFeatures) + "}";
         JsonObject selectedFarms = JsonParser.parseString(strMerge).getAsJsonObject();
         InterfaceKawaEvents interfaceKawaEvents = (InterfaceKawaEvents) getContext();
-        interfaceKawaEvents.onkawaSelect(selectedFarms);
+        interfaceKawaEvents.onkawaSelect(selectedFarms.toString());
 
         //Phase second
         common.showLoader(getActivity(), "isCircle");

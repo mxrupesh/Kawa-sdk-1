@@ -84,7 +84,7 @@ public class kawaHomeActivity extends AppCompatActivity implements InterfaceKawa
     }
 
     @Override
-    public void onkawaSelect(JsonObject data) {
+    public void onkawaSelect(String data) {
        // finish();
         //Toast.makeText(this, String.valueOf(data), Toast.LENGTH_LONG).show();
         Log.e(TAG, "SelectJson: " + data);
@@ -92,7 +92,7 @@ public class kawaHomeActivity extends AppCompatActivity implements InterfaceKawa
     }
 
     @Override
-    public void onkawaUpdate(JSONObject data) {
+    public void onkawaUpdate(String data) {
         // Log.e(TAG, String.valueOf(data));
     }
 
